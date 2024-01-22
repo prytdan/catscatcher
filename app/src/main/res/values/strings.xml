@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Cats Catcher</string>
+    <string name="play">play</string>
+    <string name="scores">scores</string>
+    <string name="score">Score:</string>
+    <string name="rate">rate</string>
+    <string name="share">share</string>
+    <string name="quit">quit</string>
+    <string name="game_link">https://play.google.com/store/apps/details?id=%1$s&amp;hl=en</string>
+    <string name="share_message">Hey, my best result at this game is %1$s! Can you beat me? Check this game in Google Play: %2$s</string>
+    <string name="bed_for_catching">bed_for_catching</string>
+    <string name="pause">pause</string>
+    <string name="initial_score">0</string>
+    <string name="game_over">Game over</string>
+    <string name="menu">menu</string>
+    <string name="restart">restart</string>
+    <string name="resume">resume</string>
+    <string name="score_place">%1$d.</string>
+    <string name="place">Place</string>
+
+</resources>

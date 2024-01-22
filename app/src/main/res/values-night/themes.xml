@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="Theme.CatsCatcher" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/chewy_regular</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="CustomMaterialButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@null</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+</resources>
